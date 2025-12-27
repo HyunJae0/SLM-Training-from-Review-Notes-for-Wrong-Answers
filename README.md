@@ -1,1 +1,1 @@
-# SLM-Review-Notes-for-Wrong-Answers-Training
+# SLM-Training-from-Review-Notes-for-Wrong-Answers
